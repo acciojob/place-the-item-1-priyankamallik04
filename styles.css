@@ -1,2 +1,119 @@
 
 /* Your CSS Code here. */
+ body{
+            margin: 0;
+            padding: 0;
+        }
+
+    .holder{
+            
+            width: 100vw;
+            display: flex;
+            flex-direction: row;
+            justify-content: space-between;
+            flex-wrap: wrap;
+           
+
+        }
+
+        .item-1{
+           
+            width: 90px;
+            height: 80px;
+            order: 6;
+            font-weight: bold;
+            font-size: 35px;
+            text-align: center;
+            padding-top: 6px;
+            background-color: red;
+            border: 2px solid red;
+            color: black;
+        }
+
+
+
+          .item-2{
+            
+            width: 90px;
+            height: 80px;
+            order: 7;
+            font-weight: bold;
+            font-size: 35px;
+            text-align: center;
+            padding-top: 6px;
+            background-color: blue;
+            border: 2px solid blue;
+            color: black;
+        }
+
+          .item-3{
+            
+            width: 90px;
+            height: 80px;
+            font-weight: bold;
+            font-size: 35px;
+            order: 1;
+            text-align: center;
+            padding-top: 6px;
+            background-color: green;
+            border: 2px solid green ;
+            color: black;
+        }
+
+          .item-4{
+            
+            width: 90px;
+            height: 80px;
+            font-weight: bold;
+            font-size: 35px;
+            order: 2;
+            text-align: center;
+            padding-top: 6px;
+            background-color: green;
+            border: 2px solid  green;
+            color: black;
+        }
+
+
+
+           .item-5{
+            
+            width: 90px;
+            height: 80px;
+            font-weight: bold;
+            font-size: 35px;
+            order: 3;
+            text-align: center;
+            padding-top: 6px;
+            background-color: green;
+            border: 2px solid  green;
+            color: black;
+        }
+
+          .item-6{
+            
+            width: 90px;
+            height: 80px;
+            font-weight: bold;
+            font-size: 35px;
+            order: 4;
+            text-align: center;
+            padding-top: 6px;
+            background-color: green;
+            border: 2px solid  green;
+            color: black;
+        }
+
+          .item-7{
+            
+            width: 90px;
+            height: 80px;
+            font-weight: bold;
+            font-size: 35px;
+            order: 5;
+            text-align: center;
+            padding-top: 6px;
+            background-color: green;
+            border: 2px solid  green;
+            color: black;
+        }
